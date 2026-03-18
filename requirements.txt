@@ -1,0 +1,5 @@
+# This project has no external runtime dependencies.
+# It runs with the Python standard library only.
+
+# Optional (for running tests):
+# pytest
